@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "Lobster-Regular";
+    src: url("/fonts/Lobster-Regular.ttf");
+}
+body{
+    background: url("/images/bg.jpg") no-repeat center top;
+    background-size: cover;
+    font-family: "Lobster-Regular";
+    font-size: 26px;
+    text-align: left;
+}
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+._2em{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+}
+.center{
+    font-family: "OrelegaOne-Regular";
+    src:"/fonts/OrelegaOne-Regular.ttf";
+    text-align: center;
+}
+.letter-spacing{
+    letter-spacing: 10px;
+}
+ul{
+    font-size: 1em;
+}
+._{
+    text-decoration: underline;
+}
+.acrossline{
+    text-decoration: line-through;
+}
+mark{
+    background-color: rgba(9,9,9,0);
+}
+img{
+    width: 20%;
+    height: 10%;
+}
